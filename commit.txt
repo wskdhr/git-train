@@ -3,3 +3,4 @@ change on local master 13:50
 change on local master， not push  13:51
 change on remote master 
 change on local master 14:20
+try resolve merge: change on remote
